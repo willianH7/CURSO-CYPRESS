@@ -1,0 +1,14 @@
+{
+  "name": "testes-e2e-com-cypress",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "willian": "console.log('dai')"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^8.2.0"
+  }
+}
